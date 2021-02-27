@@ -20,7 +20,7 @@
 export default {
 	name: "app",
 	data() {
-		return { name: "JowayYoung" };
+		return { name: "JowayYoung" };  
 	}
 };
 </script>

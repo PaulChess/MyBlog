@@ -7,7 +7,7 @@ module.exports = {
 		node: true
 	},
 	extends: [
-		"standard"
+		"sonarjs"
 	],
 	parser: "babel-eslint",
 	parserOptions: {
