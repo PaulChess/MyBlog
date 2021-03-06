@@ -17,7 +17,7 @@ const proxy = new Proxy(myTarget, {
    * @param {*} target 目标对象
    * @param {*} property 属性
    * @param {*} receiver 代理对象或继承代理对象的对象
-   * 返回值无限制
+   * @returns 返回值无限制
    */
   get(target, property, receiver) {
     console.log('get()');

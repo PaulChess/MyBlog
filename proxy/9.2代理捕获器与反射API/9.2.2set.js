@@ -15,7 +15,7 @@ const proxy = new Proxy(myTarget, {
    * @param {*} property 属性
    * @param {*} value
    * @param {*} receiver 接收最初赋值的对象
-   * 返回值: true表示成功; false表示失败， 严格模式下抛出TypeError
+   * @returns true表示成功; false表示失败， 严格模式下抛出TypeError
    */
   set(target, property, value, receiver) {
     console.log('set()');
