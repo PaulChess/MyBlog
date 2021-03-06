@@ -19,7 +19,7 @@ const proxy = new Proxy(myTarget, {
    */
   set(target, property, value, receiver) {
     console.log('set()');
-    return Reflect.get(...arguments);
+    return Reflect.set(...arguments);
   }
 })
 
