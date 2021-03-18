@@ -7,4 +7,5 @@
 ### 6. [组件库设计系列文章收集](https://github.com/PaulChess/fe-basic/issues/6)
 ### 7. [vue3资料链接收集](https://github.com/PaulChess/fe-basic/issues/7)
 ### 8. [集合引用类型(红宝书v4)](https://github.com/PaulChess/fe-basic/issues/8)
+### 9. [Map和Set类型(红宝书v4)](https://github.com/PaulChess/fe-basic/issues/9)
 ### 9. [浏览器工作原理](https://github.com/PaulChess/fe-basic/issues/11)
