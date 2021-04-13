@@ -10,3 +10,5 @@
 ### 9. [Map和Set类型(红宝书v4)](https://github.com/PaulChess/fe-basic/issues/9)
 ### 9. [浏览器工作原理](https://github.com/PaulChess/fe-basic/issues/11)
 ### 10. [ESModules](https://github.com/PaulChess/fe-basic/issues/13)
+### 11. [符号链接和package.json中的bin属性](https://github.com/PaulChess/fe-basic/issues/14)
+### 12. [vue $attrs与$listeners](https://github.com/PaulChess/fe-basic/issues/15)
