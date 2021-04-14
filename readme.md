@@ -15,4 +15,5 @@
 ### 14. [vue $attrs与$listeners](https://github.com/PaulChess/fe-basic/issues/15)
 ### 15. [探索-如何正确将源码应用于实践](https://github.com/PaulChess/fe-basic/issues/16)
 ### 16. [从vuePress到vitePress](https://github.com/PaulChess/fe-basic/issues/17)
-### 17. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/18)
+### 17. [Vue过渡动画learning](https://github.com/PaulChess/fe-basic/issues/18)
+### 17. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/19)
