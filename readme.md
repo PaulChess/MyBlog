@@ -17,4 +17,5 @@
 ### 16. [从vuePress到vitePress](https://github.com/PaulChess/fe-basic/issues/17)
 ### 17. [Vue过渡动画learning](https://github.com/PaulChess/fe-basic/issues/18)
 ### 18. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/19)
-### 19. [ES2021新语法特性](https://github.com/PaulChess/fe-basic/issues/20)
+### 19. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/20)
+### 20. [ES2021新语法特性](https://github.com/PaulChess/fe-basic/issues/21)
