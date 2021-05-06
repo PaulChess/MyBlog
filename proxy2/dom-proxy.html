@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="bank-account"></div>
+
+  <script>
+    const bankAccount = {
+      name: 'sjq',
+      balance: 2020,
+      get text() {
+        return `${this.name} Balance is ${this.balance}`;
+      }
+    };
+
+    const objectWidthDom = (object, domId) => {
+      const handler = {
+        set: function(target, prop, value) {
+          target[prop] = value;
+          document.getElementById(domId).innerHTML = target.text;
+          return true;
+        }
+      };
+      return new Proxy(object, handler);
+    };
+
+    const wrappedBankAccount = objectWidthDom(bankAccount, "bank-account");
+
+    setInterval(() => {
+      wrappedBankAccount.balance += 10;
+    }, 1000);
+  </script>
+</body>
+</html>
