@@ -19,3 +19,4 @@
 ### 18. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/19)
 ### 19. [Fes.js Learning](https://github.com/PaulChess/fe-basic/issues/20)
 ### 20. [ES2021新语法特性](https://github.com/PaulChess/fe-basic/issues/21)
+### 21. [JS内存泄露](https://github.com/PaulChess/MyBlog/issues/22)
