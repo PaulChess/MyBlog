@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #333;
+}
+
+body {
+  overflow: hidden;
+}
+
+#container {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  margin: 20px 20px;
+}
+
+.bubble {
+  position: absolute;
+  animation: floating linear infinite;
+}
+
+@keyframes floating {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
